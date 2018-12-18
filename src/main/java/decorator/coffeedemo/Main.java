@@ -7,6 +7,7 @@ package decorator.coffeedemo;
  * -对于被装饰对象维护在基类中比较重要
  *
  * 适用场景-对被装饰对象动态的增加功能，而不用修改已经存在的源码
+ * 对修改代码关闭，对新增代码开放。
  * Created by Nero on 2018-12-12.
  */
 public class Main {
